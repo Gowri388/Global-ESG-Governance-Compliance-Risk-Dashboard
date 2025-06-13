@@ -26,14 +26,8 @@ To go beyond static ESG data and:
 
 ---
 
-## 🧱 Project Structure
+## ✅ Final Outcome
+The Global ESG Governance Compliance & Risk Dashboard offers a clear, accessible view of ESG performance across the world, encouraging data-driven compliance efforts and sustainability planning.
 
-```plaintext
-📁 ESG_Dashboard_Project/
-│
-├── ESG_Cleaned.csv                # Final processed dataset
-├── ESG_Dashboard.twb             # Tableau Workbook
-├── visuals/                      # Screenshots of dashboards
-│   └── map_view.png
-│   └── risk_chart.png
-├── README.md                     # This file
+
+
